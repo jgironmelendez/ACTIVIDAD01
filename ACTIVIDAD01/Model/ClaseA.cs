@@ -9,6 +9,6 @@ namespace ACTIVIDAD01.Model
     {
         int foo = 1;
         int bar = 2;
-        string lorem = "Ejercicio 11";
+   
     }
 }
